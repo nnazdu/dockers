@@ -1,2 +1,2 @@
 # dockers
-dockerfiles and compes files for self hosting
+dockerfiles and compose files for self hosting
